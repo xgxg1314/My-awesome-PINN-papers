@@ -1,12 +1,17 @@
-# My-awesome-PINN-papers
-
 # PINN papers
 
- Contributed mostly by [IDRL lab](https://github.com/idrl-lab).
+Contributed by [IDRL lab](https://github.com/idrl-lab).
 
-
-
-[TOC] 
+- [PINNpapers](#pinnpapers)
+  - [Introduction](#introduction)
+  - [Software](#software)
+  - [Papers on PINN Models](#papers-on-pinn-models)
+  - [Papers on Parallel PINN](#papers-on-parallel-pinn)
+  - [Papers on PINN Accerleration](#papers-on-pinn-accerleration)
+  - [Papers on Model Transfer & Meta-Learning](#papers-on-model-transfer--meta-learning)
+  - [Papers on Probabilistic PINNs and Uncertainty Quantification](#papers-on-probabilistic-pinns-and-uncertainty-quantification)
+  - [Papers on Applications](#papers-on-applications)
+  - [Papers on PINN Analysis](#papers-on-pinn-analysis)
 
 ## Introduction
 
@@ -116,19 +121,3 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
 10. **Characterizing possible failure modes in physics-informed neural networks**, *Aditi Krishnapriyan, Amir Gholami, Sh Zhe, ian, Robert Kirby, Michael W. Mahoney*, *NIPS*, 2021. [[paper](https://openreview.net/forum?id=a2Gr9gNFD-J)]
 11. **Convergence rate of DeepONets for learning operators arising from advection-diffusion equations**, *Beichuan Deng, Yeonjong Shin, Lu Lu, Zhongqiang Zhang, George Em Karniadakis*, arXiv:2102.10621 [math], 2021. [[paper](https://arxiv.org/abs/2102.10621)]
 12. **Estimates on the generalization error of physics-informed neural networks for approximating PDEs**, *Siddhartha Mishra, Roberto Molinaro*, IMA Journal of Numerical Analysis, 2022. [[paper](https://academic.oup.com/imajna/advance-article/doi/10.1093/imanum/drab093/6503953)]
-
-
-
-## Papers on multi-task learning
-
-1.**papers**[paper](https)
-
-## Papers on nonlinear dynamics
-
-## papers on
-
-
-
-## papers on what???
-
-
