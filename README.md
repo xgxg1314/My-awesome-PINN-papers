@@ -4,16 +4,9 @@
 
  Contributed mostly by [IDRL lab](https://github.com/idrl-lab).
 
-- [PINNpapers](#pinnpapers)
-  - [Introduction](#introduction)
-  - [Software](#software)
-  - [Papers on PINN Models](#papers-on-pinn-models)
-  - [Papers on Parallel PINN](#papers-on-parallel-pinn)
-  - [Papers on PINN Accerleration](#papers-on-pinn-accerleration)
-  - [Papers on Model Transfer & Meta-Learning](#papers-on-model-transfer--meta-learning)
-  - [Papers on Probabilistic PINNs and Uncertainty Quantification](#papers-on-probabilistic-pinns-and-uncertainty-quantification)
-  - [Papers on Applications](#papers-on-applications)
-  - [Papers on PINN Analysis](#papers-on-pinn-analysis)
+
+
+[TOC] 
 
 ## Introduction
 
@@ -127,6 +120,7 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
 
 
 ## Papers on multi-task learning
+
 1.**papers**[paper](https)
 
 ## Papers on nonlinear dynamics
