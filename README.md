@@ -1,6 +1,6 @@
 # My-awesome-PINN-papers
 
-# PINNpapers
+# PINN papers
 
  Contributed mostly by [IDRL lab](https://github.com/idrl-lab).
 
