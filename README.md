@@ -12,6 +12,7 @@ Contributed by [IDRL lab](https://github.com/idrl-lab).
   - [Papers on Probabilistic PINNs and Uncertainty Quantification](#papers-on-probabilistic-pinns-and-uncertainty-quantification)
   - [Papers on Applications](#papers-on-applications)
   - [Papers on PINN Analysis](#papers-on-pinn-analysis)
+  - [Papers on multi-task optimization ](#Papers on multi-task optimization)
 
 ## Introduction
 
@@ -124,7 +125,7 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
 
 
 
-## papers on multi-task optimization
+## Papers on multi-task optimization
 
 
 
